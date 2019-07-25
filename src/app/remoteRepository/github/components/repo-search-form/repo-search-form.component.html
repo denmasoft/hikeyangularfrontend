@@ -1,0 +1,24 @@
+<show-loading *ngIf="show"></show-loading>
+<div class="col-xs-12 col-sm-10 col-md-3 col-lg-6 offset-sm-3 page-search-form">
+    <form class="pg-search-form" novalidate (keydown.enter)="CheckStability()">
+        <div class="row">
+            <div class="col-xs-12 col-sm-10 col-md-3 col-lg-9">
+                <div class="form-group">
+                    <input class="form-control" placeholder="GitHub Repository.e.g. fschaeffler/youtracker" id="repo" name="repo" [(ngModel)]="repo"/>
+                </div>
+            </div><!-- end columns -->
+            
+            <div class="col-xs-12 col-sm-2 col-md-3 col-lg-3">
+                <div class="form-group">
+                    <a class="btn btn-secondary" (click)="CheckStability()" appTrans="github.search"></a>
+                </div>
+            </div><!-- end columns -->
+        </div><!-- end row -->
+        <div class="row">
+            <div class="col-xs-12 col-sm-10 col-md-3 col-lg-9">
+                <p id="text-info" class="text-info">{{textInfo}}</p>
+                <p id="text-rating" class="text-rating"><strong>{{textRating}}</strong></p>
+            </div>
+        </div>
+    </form>
+</div>
