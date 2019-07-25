@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  api: 'http://localhost:3002/api/v1'
+  api: 'https://hikeyrestapi.herokuapp.com/api/v1'
 };
