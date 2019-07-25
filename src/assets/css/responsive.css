@@ -1123,91 +1123,91 @@ Author:			Star Travel
 	}	
 }
 
-/************* TRAVEL-AGENCY *************/
+/************* HIKEY-APP *************/
 
 @media(min-width:1200px){
 	
-	#travel-agency #flexslider-container-5, 
-	#travel-agency #slider-5 .slides, 
-	#travel-agency #slider-5 .flex-viewport {
+	#hikey-app #flexslider-container-5, 
+	#hikey-app #slider-5 .slides, 
+	#hikey-app #slider-5 .flex-viewport {
 		height: 720px;
 	}
 
-	#travel-agency #slider-5 .slides > li { 
+	#hikey-app #slider-5 .slides > li { 
 	  	height: 720px;
 	}
 	
-	#travel-agency #slider-5 {
+	#hikey-app #slider-5 {
 	  	height: 720px; 
 	}
 	
-	#travel-agency #slider-5 li .meta{
+	#hikey-app #slider-5 li .meta{
 		margin-top:30px;
 	}
 }
 
 @media(max-width:1199px){
 	
-	#travel-agency #flexslider-container-5, 
-	#travel-agency #slider-5 .slides, 
-	#travel-agency #slider-5 .flex-viewport {
+	#hikey-app #flexslider-container-5, 
+	#hikey-app #slider-5 .slides, 
+	#hikey-app #slider-5 .flex-viewport {
 		height: 700px;
 	}
 
-	#travel-agency #slider-5 .slides > li { 
+	#hikey-app #slider-5 .slides > li { 
 	  	height: 700px;
 	}
 	
-	#travel-agency #slider-5 {
+	#hikey-app #slider-5 {
 	  	height: 700px; 
 	}
 	
-	#travel-agency #slider-5 li .meta{
+	#hikey-app #slider-5 li .meta{
 		margin-top:30px;
 	}
 }
 
 @media(max-width:991px){
 	
-	#travel-agency #flexslider-container-5, 
-	#travel-agency #slider-5 .slides, 
-	#travel-agency #slider-5 .flex-viewport {
+	#hikey-app #flexslider-container-5, 
+	#hikey-app #slider-5 .slides, 
+	#hikey-app #slider-5 .flex-viewport {
 		height: 660px;
 	}
 
-	#travel-agency #slider-5 .slides > li { 
+	#hikey-app #slider-5 .slides > li { 
 	  	height: 660px;
 	}
 	
-	#travel-agency #slider-5 {
+	#hikey-app #slider-5 {
 	  	height: 660px; 
 	}
 }
 
 @media(max-width:768px){
 
-	#travel-agency #slider-5 li .meta{
+	#hikey-app #slider-5 li .meta{
 		margin-top:40px;
 	}
 }
 
 @media(max-width:576px){
 	
-	#travel-agency #flexslider-container-5, 
-	#travel-agency #slider-5 .slides, 
-	#travel-agency #slider-5 .flex-viewport {
+	#hikey-app #flexslider-container-5, 
+	#hikey-app #slider-5 .slides, 
+	#hikey-app #slider-5 .flex-viewport {
 		height: 600px;
 	}
 
-	#travel-agency #slider-5 .slides > li { 
+	#hikey-app #slider-5 .slides > li { 
 	  	height: 600px;
 	}
 	
-	#travel-agency #slider-5 {
+	#hikey-app #slider-5 {
 	  	height: 600px; 
 	}
 	
-	#travel-agency #slider-5 li .meta{
+	#hikey-app #slider-5 li .meta{
 		margin-top:45px;
 	}
 }
