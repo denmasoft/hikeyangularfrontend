@@ -1,5 +1,5 @@
 import { Observable } from 'rxjs';
-// comment
+
 export interface Repository<T> {
   findById(id: number): Observable<T>;
   findAll(): Observable<T[]>;
