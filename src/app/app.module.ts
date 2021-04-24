@@ -17,7 +17,6 @@ import { GithubRepoRepositoryImpl } from 'app/remoteRepository/github/repositori
 import { GithubRepoRepository } from 'app/remoteRepository/github/repositories/githubRepoRepository';
 import { ResponseService } from '@core/services/responseService';
 import { LocalStorageService } from '@core/services/localStorageService';
-// comment
 @NgModule({
   declarations: [
     AppComponent
